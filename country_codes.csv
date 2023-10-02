@@ -1,0 +1,41 @@
+"","Value","Category","Included"
+"1","AL","Albania",FALSE
+"2","AT","Austria",FALSE
+"3","BE","Belgium",TRUE
+"4","BG","Bulgaria",TRUE
+"5","CH","Switzerland",TRUE
+"6","CY","Cyprus",TRUE
+"7","CZ","Czechia",TRUE
+"8","DE","Germany",FALSE
+"9","DK","Denmark",TRUE
+"10","EE","Estonia",TRUE
+"11","ES","Spain",FALSE
+"12","FI","Finland",TRUE
+"13","FR","France",FALSE
+"14","GB","United Kingdom",FALSE
+"15","GE","Georgia",FALSE
+"16","GR","Greece",FALSE
+"17","HR","Croatia",TRUE
+"18","HU","Hungary",TRUE
+"19","IE","Ireland",TRUE
+"20","IS","Iceland",TRUE
+"21","IL","Israel",FALSE
+"22","IT","Italy",FALSE
+"23","LT","Lithuania",TRUE
+"24","LU","Luxembourg",FALSE
+"25","LV","Latvia",TRUE
+"26","ME","Montenegro",TRUE
+"27","MK","North Macedonia",FALSE
+"28","NL","Netherlands",TRUE
+"29","NO","Norway",TRUE
+"30","PL","Poland",FALSE
+"31","PT","Portugal",FALSE
+"32","RO","Romania",FALSE
+"33","RS","Serbia",TRUE
+"34","RU","Russian Federation",FALSE
+"35","SE","Sweden",TRUE
+"36","SI","Slovenia",FALSE
+"37","SK","Slovakia",TRUE
+"38","TR","Turkey",FALSE
+"39","UA","Ukraine",FALSE
+"40","XK","Kosovo",FALSE
